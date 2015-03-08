@@ -1,0 +1,29 @@
+{
+  "name": "angular-sudoku",
+  "version": "0.0.0",
+  "description": "This is the 2nd iteration of my 1st capstone project for the Nashville Software School.",
+  "main": "app/index.html",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.2.2",
+    "gulp": "^3.8.11",
+    "gulp-concat": "^2.5.2",
+    "gulp-jshint": "^1.9.2",
+    "gulp-load-plugins": "^0.8.1",
+    "gulp-rename": "^1.2.0",
+    "gulp-ruby-sass": "^1.0.0-alpha.3",
+    "gulp-uglify": "^1.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brandontate/angular-sudoku.git"
+  },
+  "author": "Brandon Tate",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brandontate/angular-sudoku/issues"
+  }
+}

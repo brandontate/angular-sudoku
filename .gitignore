@@ -1,0 +1,7 @@
+bower_components/
+test/
+*.swp
+.sass-cache/
+node_modules/
+.idea/
+*.log
